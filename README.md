@@ -1,6 +1,6 @@
 # A Mood Story
 
-⏰ Updated on Sat, 30 Dec 2023 00:16:26 GMT
+⏰ Updated on Mon, 27 Nov 2023 22:35:28 GMT
 
-💭 Thought: Lagi butuh kopi untuk menghadapi tugas kuliah!
+💭 Thought: Pentingnya istirahat: seharusnya aku tak perlu terus-terusan ngoding.
 
