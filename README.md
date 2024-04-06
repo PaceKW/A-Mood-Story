@@ -1,6 +1,6 @@
 # A Mood Story
 
-⏰ Updated on Thu, 11 Jan 2024 19:52:43 GMT
+⏰ Updated on Sat, 06 Apr 2024 00:12:41 GMT
 
-💭 Thought: Mencoba bahasa pemrograman baru, semoga menyenangkan!
+💭 Thought: Kenapa ya kadang solusi paling sederhana justru yang terlewat?
 
