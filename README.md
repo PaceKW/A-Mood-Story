@@ -1,6 +1,6 @@
 # A Mood Story
 
-⏰ Updated on Fri, 13 Oct 2023 16:38:39 GMT
+⏰ Updated on Thu, 18 Apr 2024 09:14:38 GMT
 
-💭 Thought: Kenapa ya kadang solusi paling sederhana justru yang terlewat?
+💭 Thought: Ternyata debugging itu butuh kesabaran luar biasa.
 
