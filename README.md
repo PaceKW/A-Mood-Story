@@ -1,6 +1,6 @@
 # A Mood Story
 
-⏰ Updated on Thu, 24 Oct 2024 02:04:44 GMT
+⏰ Updated on Sat, 26 Oct 2024 23:15:26 GMT
 
-💭 Thought: hari ini cukup melelahkan karena tidak prduktif!
+💭 Thought: Skripsi belum ku sentuh lagi selama sebulan (-_- )
 
